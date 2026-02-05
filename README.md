@@ -49,7 +49,7 @@ RAGFlow를 활용한 지능형 문서 검색 및 AI 답변 시스템
 | 문서 전처리 파이프라인 | Vector DB |
 
 <a href="https://github.com/moinji/CTRLF">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=moinji&repo=CTRLF&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=moinji&repo=CTRLF&theme=tokyonight&hide_border=true" />
 </a>
 
 ---
@@ -66,7 +66,7 @@ RAGFlow를 활용한 지능형 문서 검색 및 AI 답변 시스템
 | 시각화 대시보드 | Streamlit |
 
 <a href="https://github.com/moinji/financial-statement-analyzer">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=moinji&repo=financial-statement-analyzer&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=moinji&repo=financial-statement-analyzer&theme=tokyonight&hide_border=true" />
 </a>
 
 ---
@@ -76,16 +76,16 @@ RAGFlow를 활용한 지능형 문서 검색 및 AI 답변 시스템
 <div align="center">
 
 <a href="https://github.com/moinji/GimmeMeme">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=moinji&repo=GimmeMeme&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=moinji&repo=GimmeMeme&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/moinji/planningo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=moinji&repo=planningo&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=moinji&repo=planningo&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/moinji/drinking-game">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=moinji&repo=drinking-game&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=moinji&repo=drinking-game&theme=tokyonight&hide_border=true" />
 </a>
 <a href="https://github.com/moinji/seoul-coupon-map">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=moinji&repo=seoul-coupon-map&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=moinji&repo=seoul-coupon-map&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -96,9 +96,9 @@ RAGFlow를 활용한 지능형 문서 검색 및 AI 답변 시스템
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=moinji&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=moinji&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinji&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=moinji&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 
 <img src="https://streak-stats.demolab.com/?user=moinji&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
