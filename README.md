@@ -114,7 +114,7 @@ RAGFlow를 활용한 지능형 문서 검색 및 AI 답변 시스템
 
 ---
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmoinji&count_bg=%236C63FF&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visitors&edge_flat=true)](https://hits.seeyoufarm.com)
+![Visitors](https://komarev.com/ghpvc/?username=moinji&color=6C63FF&style=flat-square&label=visitors)
 
 *"좋은 코드는 그 자체로 문서가 된다"*
 
