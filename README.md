@@ -108,12 +108,6 @@ RAGFlow를 활용한 지능형 문서 검색 및 AI 답변 시스템
 
 <div align="center">
 
-## 📈 Activity
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=moinji&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-
----
-
 ### 📫 Contact
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/moinji)
