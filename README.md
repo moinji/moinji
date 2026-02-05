@@ -2,7 +2,7 @@
 
 # 모인지 | AI & Full Stack Developer
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=AI+%2B+Web+Developer;Building+Smart+Solutions;SK%EC%89%B4%EB%8D%94%EC%8A%A4+AI+%EB%B3%B4%EC%95%88+%EA%B3%BC%EC%A0%95+%EC%88%98%EB%A3%8C)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&lines=AI+%2B+Web+Developer;Building+Smart+Solutions;SK+Shieldus+AI+Security+Course)](https://git.io/typing-svg)
 
 <br>
 
@@ -96,11 +96,11 @@ RAGFlow를 활용한 지능형 문서 검색 및 AI 답변 시스템
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=moinji&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=moinji&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinji&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=moinji&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=moinji&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=moinji&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
 
